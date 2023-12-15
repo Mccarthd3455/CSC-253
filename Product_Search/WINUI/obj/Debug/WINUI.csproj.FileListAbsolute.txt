@@ -1,0 +1,12 @@
+C:\Users\david\source\repos\Product_Search\WINUI\bin\Debug\ProductDB.mdf
+C:\Users\david\source\repos\Product_Search\WINUI\bin\Debug\ProductDB_log.ldf
+C:\Users\david\source\repos\Product_Search\WINUI\bin\Debug\WINUI.exe.config
+C:\Users\david\source\repos\Product_Search\WINUI\bin\Debug\WINUI.exe
+C:\Users\david\source\repos\Product_Search\WINUI\bin\Debug\WINUI.pdb
+C:\Users\david\source\repos\Product_Search\WINUI\obj\Debug\WINUI.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Product_Search\WINUI\obj\Debug\WINUI.Properties.Resources.resources
+C:\Users\david\source\repos\Product_Search\WINUI\obj\Debug\WINUI.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Product_Search\WINUI\obj\Debug\WINUI.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Product_Search\WINUI\obj\Debug\WINUI.exe
+C:\Users\david\source\repos\Product_Search\WINUI\obj\Debug\WINUI.pdb
+C:\Users\david\source\repos\Product_Search\WINUI\obj\Debug\WINUI.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\david\source\repos\Unique_Words\WINUI\bin\Debug\WINUI.exe.config
+C:\Users\david\source\repos\Unique_Words\WINUI\bin\Debug\WINUI.exe
+C:\Users\david\source\repos\Unique_Words\WINUI\bin\Debug\WINUI.pdb
+C:\Users\david\source\repos\Unique_Words\WINUI\obj\Debug\WINUI.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Unique_Words\WINUI\obj\Debug\WINUI.Form1.resources
+C:\Users\david\source\repos\Unique_Words\WINUI\obj\Debug\WINUI.Properties.Resources.resources
+C:\Users\david\source\repos\Unique_Words\WINUI\obj\Debug\WINUI.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Unique_Words\WINUI\obj\Debug\WINUI.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Unique_Words\WINUI\obj\Debug\WINUI.exe
+C:\Users\david\source\repos\Unique_Words\WINUI\obj\Debug\WINUI.pdb

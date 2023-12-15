@@ -1,0 +1,10 @@
+D:\Advanced C#\Shiftsupervisor\Shift_Supervisor\WinUI\bin\Debug\WinUI.exe.config
+D:\Advanced C#\Shiftsupervisor\Shift_Supervisor\WinUI\bin\Debug\WinUI.exe
+D:\Advanced C#\Shiftsupervisor\Shift_Supervisor\WinUI\bin\Debug\WinUI.pdb
+D:\Advanced C#\Shiftsupervisor\Shift_Supervisor\WinUI\obj\Debug\WinUI.csproj.AssemblyReference.cache
+D:\Advanced C#\Shiftsupervisor\Shift_Supervisor\WinUI\obj\Debug\WinUI.Properties.Resources.resources
+D:\Advanced C#\Shiftsupervisor\Shift_Supervisor\WinUI\obj\Debug\WinUI.csproj.GenerateResource.cache
+D:\Advanced C#\Shiftsupervisor\Shift_Supervisor\WinUI\obj\Debug\WinUI.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Shiftsupervisor\Shift_Supervisor\WinUI\obj\Debug\WinUI.exe
+D:\Advanced C#\Shiftsupervisor\Shift_Supervisor\WinUI\obj\Debug\WinUI.pdb
+D:\Advanced C#\Shiftsupervisor\Shift_Supervisor\WinUI\obj\Debug\WinUI.Form1.resources

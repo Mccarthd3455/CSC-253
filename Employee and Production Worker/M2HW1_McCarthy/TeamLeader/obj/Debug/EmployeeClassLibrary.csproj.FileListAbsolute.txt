@@ -1,0 +1,6 @@
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\TeamLeader\bin\Debug\TeamLeader.dll
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\TeamLeader\bin\Debug\TeamLeader.pdb
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\TeamLeader\obj\Debug\EmployeeClassLibrary.csproj.AssemblyReference.cache
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\TeamLeader\obj\Debug\EmployeeClassLibrary.csproj.CoreCompileInputs.cache
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\TeamLeader\obj\Debug\TeamLeader.dll
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\TeamLeader\obj\Debug\TeamLeader.pdb

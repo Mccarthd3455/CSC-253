@@ -1,0 +1,36 @@
+C:\Users\david\source\repos\Employee_and_ProductionWorker_Classes\WINUI\obj\Debug\WINUI.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Employee_and_ProductionWorker_Classes\WINUI\obj\Debug\WINUI.Form1.resources
+C:\Users\david\source\repos\Employee_and_ProductionWorker_Classes\WINUI\obj\Debug\WINUI.Properties.Resources.resources
+C:\Users\david\source\repos\Employee_and_ProductionWorker_Classes\WINUI\obj\Debug\WINUI.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Employee_and_ProductionWorker_Classes\WINUI\obj\Debug\WINUI.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Employee_and_ProductionWorker_Classes\WINUI\bin\Debug\WINUI.exe.config
+C:\Users\david\source\repos\Employee_and_ProductionWorker_Classes\WINUI\bin\Debug\WINUI.exe
+C:\Users\david\source\repos\Employee_and_ProductionWorker_Classes\WINUI\bin\Debug\WINUI.pdb
+C:\Users\david\source\repos\Employee_and_ProductionWorker_Classes\WINUI\obj\Debug\WINUI.exe
+C:\Users\david\source\repos\Employee_and_ProductionWorker_Classes\WINUI\obj\Debug\WINUI.pdb
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\bin\Debug\WINUI.exe.config
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\bin\Debug\WINUI.exe
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\bin\Debug\WINUI.pdb
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\bin\Debug\TeamLeader.dll
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\bin\Debug\TeamLeader.pdb
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.csproj.AssemblyReference.cache
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.Form1.resources
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.Properties.Resources.resources
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.csproj.GenerateResource.cache
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.csproj.CoreCompileInputs.cache
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.csproj.CopyComplete
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.exe
+E:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.pdb
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\bin\Debug\WINUI.exe.config
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\bin\Debug\WINUI.exe
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\bin\Debug\WINUI.pdb
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\bin\Debug\TeamLeader.dll
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\bin\Debug\TeamLeader.pdb
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.csproj.AssemblyReference.cache
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.Form1.resources
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.Properties.Resources.resources
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.csproj.GenerateResource.cache
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.csproj.CopyComplete
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.exe
+D:\Advanced C#\Employee and Production Worker\M2HW1_McCarthy\WINUI\obj\Debug\WINUI.pdb
